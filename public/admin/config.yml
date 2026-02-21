@@ -3,7 +3,7 @@ backend:
   repo: rickyo-hub/EdgeNode
   branch: main
   auth_type: pkce
-  base_url : https://sveltia-cms-auth.shintechang.workers.dev/
+  base_url: https://sveltia-cms-auth.shintechang.workers.dev/
 media_folder: "public/uploads"
 public_folder: "/uploads"
 
