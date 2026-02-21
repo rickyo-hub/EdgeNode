@@ -2,6 +2,7 @@ backend:
   name: github
   repo: rickyo-hub/EdgeNode
   branch: main
+  client_id: Ov23liwC3OG2R7K174d
 
 media_folder: "public/uploads"
 public_folder: "/uploads"
