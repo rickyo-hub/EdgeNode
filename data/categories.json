@@ -1,4 +1,12 @@
 {
-  "ko": [],
+  "ko": [
+    {
+      "id": "test-id-001",
+      "name": "Tech",
+      "slug": "tech",
+      "path": "tech",
+      "children": []
+    }
+  ],
   "en": []
 }
