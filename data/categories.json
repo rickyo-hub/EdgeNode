@@ -1,19 +1,18 @@
 {
   "ko": [
     {
+      "id": "42904edb-f46e-4577-8814-a6cfdf65a52e",
+      "name": "test 1",
+      "slug": "test-1",
+      "path": "test-1",
+      "children": []
+    },
+    {
       "id": "69802e52-ed72-4663-b07b-7f27418fb964",
       "name": "Testing",
       "slug": "testing",
       "path": "testing",
-      "children": [
-        {
-          "id": "42904edb-f46e-4577-8814-a6cfdf65a52e",
-          "name": "test 1",
-          "slug": "test-1",
-          "path": "testing/test-1",
-          "children": []
-        }
-      ]
+      "children": []
     }
   ],
   "en": []
