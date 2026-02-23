@@ -2,3 +2,7 @@
   name: "Testing"
   path: "ko/testing"
   lang: "ko"
+- id: "ko-1c7ba53b-06c1-4117-91f5-f236aed50753"
+  name: "New Cart"
+  path: "ko/new-cart"
+  lang: "ko"
