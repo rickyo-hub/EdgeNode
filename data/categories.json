@@ -8,9 +8,9 @@
       "children": [
         {
           "id": "42904edb-f46e-4577-8814-a6cfdf65a52e",
-          "name": "test 1 renamed",
-          "slug": "test-1-renamed",
-          "path": "testing/test-1-renamed",
+          "name": "test 1",
+          "slug": "test-1",
+          "path": "testing/test-1",
           "children": []
         },
         {
