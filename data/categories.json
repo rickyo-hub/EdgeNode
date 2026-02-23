@@ -2,9 +2,9 @@
   "ko": [
     {
       "id": "test-id-001",
-      "name": "Tech",
-      "slug": "tech",
-      "path": "tech",
+      "name": "Technology",
+      "slug": "technology",
+      "path": "technology",
       "children": []
     }
   ],
