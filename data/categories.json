@@ -12,13 +12,6 @@
           "slug": "test-1",
           "path": "avx/test-1",
           "children": []
-        },
-        {
-          "id": "8c233494-2d68-4c9d-b368-0dac6c9dc6b8",
-          "name": "tset 2",
-          "slug": "tset-2",
-          "path": "avx/tset-2",
-          "children": []
         }
       ]
     }
