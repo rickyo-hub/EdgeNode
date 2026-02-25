@@ -7,6 +7,13 @@
       "path": "new-cart",
       "children": [
         {
+          "id": "1320d985-cbe2-43d7-8f89-d95a9327311d",
+          "name": "efg1",
+          "slug": "efg1",
+          "path": "new-cart/efg1",
+          "children": []
+        },
+        {
           "id": "e7ad44da-d441-4aeb-b162-f06bea498b2a",
           "name": "abc2",
           "slug": "abc2",
@@ -32,13 +39,6 @@
           "name": "efg2",
           "slug": "efg2",
           "path": "new-cart/efg2",
-          "children": []
-        },
-        {
-          "id": "1320d985-cbe2-43d7-8f89-d95a9327311d",
-          "name": "efg1",
-          "slug": "efg1",
-          "path": "new-cart/efg1",
           "children": []
         }
       ]
