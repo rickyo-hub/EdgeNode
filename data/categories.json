@@ -8,9 +8,9 @@
       "children": [
         {
           "id": "1320d985-cbe2-43d7-8f89-d95a9327311d",
-          "name": "abc",
-          "slug": "abc",
-          "path": "new-cart/abc",
+          "name": "efg1",
+          "slug": "efg1",
+          "path": "new-cart/efg1",
           "children": []
         },
         {
@@ -22,9 +22,9 @@
         },
         {
           "id": "12c9cdb2-c3e8-4657-8532-84d5d2beba23",
-          "name": "abc3",
-          "slug": "abc3",
-          "path": "new-cart/abc3",
+          "name": "efg2",
+          "slug": "efg2",
+          "path": "new-cart/efg2",
           "children": []
         },
         {
