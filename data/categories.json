@@ -14,13 +14,6 @@
           "children": []
         },
         {
-          "id": "1320d985-cbe2-43d7-8f89-d95a9327311d",
-          "name": "efg1",
-          "slug": "efg1",
-          "path": "new-cart/efg1",
-          "children": []
-        },
-        {
           "id": "b17d687f-4281-4f23-adf8-f117dca3abf4",
           "name": "abc4",
           "slug": "abc4",
@@ -39,6 +32,13 @@
           "name": "efg2",
           "slug": "efg2",
           "path": "new-cart/efg2",
+          "children": []
+        },
+        {
+          "id": "1320d985-cbe2-43d7-8f89-d95a9327311d",
+          "name": "efg1",
+          "slug": "efg1",
+          "path": "new-cart/efg1",
           "children": []
         }
       ]
